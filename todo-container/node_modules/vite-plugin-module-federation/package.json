@@ -1,0 +1,23 @@
+{
+  "name": "vite-plugin-module-federation",
+  "version": "0.0.1",
+  "description": "module federation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toweave/vite-plugin-module-federation.git"
+  },
+  "keywords": [
+    "module",
+    "federation"
+  ],
+  "author": "toweave",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/toweave/vite-plugin-module-federation/issues"
+  },
+  "homepage": "https://github.com/toweave/vite-plugin-module-federation#readme"
+}
